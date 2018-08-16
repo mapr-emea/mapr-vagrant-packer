@@ -51,7 +51,6 @@ maprdemo
 
 # MySQL, required for Hive MetaStore and Oozie, IMPORTANT: only one
 [ext-mysql]
-#maprdemo
 
 # Spark on YARN
 [mapr-spark-yarn]
