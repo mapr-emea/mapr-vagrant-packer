@@ -1,0 +1,10 @@
+/.idea
+*.retry
+.DS_Store
+packer_*
+builds
+tmp/
+*.vbox
+*.box
+*.vmdk
+.vagrant
