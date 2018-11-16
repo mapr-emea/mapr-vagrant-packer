@@ -7,6 +7,6 @@
   "maprfs_disk_size": "20480",
   "vm_memory": "12288",
   "vm_cpus": "4",
-  "mapr_ansible_git_branch": "master"
+  "mapr_ansible_git_branch": "drillmem"
 
 }
