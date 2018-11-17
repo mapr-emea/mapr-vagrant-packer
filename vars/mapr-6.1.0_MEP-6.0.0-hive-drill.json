@@ -5,7 +5,7 @@
   "ansible_inventory_file": "ansible_inventory/hosts_mapr_hive_drill",
   "disk_size": "24576",
   "maprfs_disk_size": "20480",
-  "vm_memory": "10240",
+  "vm_memory": "12288",
   "vm_cpus": "4",
   "mapr_ansible_git_branch": "master"
 
