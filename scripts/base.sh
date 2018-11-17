@@ -2,8 +2,8 @@
 
 echo "debug: Executing scripts/base.sh"
 hostname -F /etc/hostname
-hostname localhost
-echo "localhost" > /etc/hostname
+hostname maprdemo
+echo "maprdemo" > /etc/hostname
 
 cat <<EOF > /etc/hosts
 127.0.0.1 localhost localhost.localdomain loopback
