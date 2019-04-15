@@ -122,6 +122,8 @@ maprdemo
 [mapr-pig]
 maprdemo
 
+[mapr-mastgateway]
+
 # Oozie
 [mapr-oozie]
 

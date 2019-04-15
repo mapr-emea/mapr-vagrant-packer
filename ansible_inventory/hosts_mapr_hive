@@ -86,6 +86,8 @@ maprdemo
 [mapr-hbase-cli]
 maprdemo
 
+[mapr-mastgateway]
+
 # HBase REST and Thrift
 [mapr-hbase-thrift-rest]
 

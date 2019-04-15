@@ -49,6 +49,8 @@ maprdemo
 [mapr-historyserver]
 maprdemo
 
+[mapr-mastgateway]
+
 # MySQL, required for Hive MetaStore and Oozie, IMPORTANT: only one
 [ext-mysql]
 

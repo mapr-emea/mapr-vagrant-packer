@@ -1,12 +1,12 @@
 {
-  "artifact_description": "MapR 6.1.0 MEP 6.0.0 with Hive and Drill",
+  "artifact_description": "MapR 6.1.0 MEP 6.1.0 with Hive and Drill",
   "artifact_version": "v1",
-  "image_name": "mapr-6.1.0_MEP-6.0.0-hive-drill",
+  "image_name": "mapr-6.1.0_MEP-6.1.0-hive-drill",
   "ansible_inventory_file": "ansible_inventory/hosts_mapr_hive_drill",
   "disk_size": "24576",
   "maprfs_disk_size": "20480",
   "vm_memory": "12288",
   "vm_cpus": "4",
-  "mapr_ansible_git_branch": "mapr-6.1.0-MEP-6.0.x"
+  "mapr_ansible_git_branch": "master"
 
 }

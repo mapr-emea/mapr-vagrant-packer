@@ -1,12 +1,12 @@
 {
-  "artifact_description": "MapR 6.1.0 MEP 6.0.0 Slim",
+  "artifact_description": "MapR 6.1.0 MEP 6.1.0 Slim",
   "artifact_version": "v1",
-  "image_name": "mapr-6.1.0_MEP-6.0.0-slim",
+  "image_name": "mapr-6.1.0_MEP-6.1.0-slim",
   "ansible_inventory_file": "ansible_inventory/hosts_mapr_slim",
   "disk_size": "24576",
   "maprfs_disk_size": "20480",
   "vm_memory": "8196",
   "vm_cpus": "4",
-  "mapr_ansible_git_branch": "mapr-6.1.0-MEP-6.0.x"
+  "mapr_ansible_git_branch": "master"
 
 }
